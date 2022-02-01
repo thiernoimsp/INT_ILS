@@ -1,12 +1,12 @@
 # INT_Heuristic
 
-these package may be needed to be installed
+### these package may be needed to be installed
 
-python3 -m pip install mip
-python3 -m pip install numpy
-python3 -m pip install pandas
-python3 -m pip install networkx
-python3 -m pip install matplotlib
+### python3 -m pip install mip
+### python3 -m pip install numpy
+### python3 -m pip install pandas
+### python3 -m pip install networkx
+### python3 -m pip install matplotlib
 
 
 
